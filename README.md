@@ -121,7 +121,7 @@
 
 ## 🎓 Education
 
-- **B.Tech, Information Technology** — MAKAUT, West Bengal *(Expected 2027)* — Semester GPA: 7.28
+- **B.Tech, Information Technology** — MAKAUT, West Bengal *(Expected 2027)* — Semester GPA: 7.46
 - **Diploma in Computer Science & Technology** — Women's Polytechnic, Kolkata *(2024)* — Overall GPA: 6.4
 
 ## 🏆 Certifications & Awards
